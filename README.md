@@ -1,6 +1,6 @@
 # Tech Blog [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-Writing about tech can be just as important as making it. Developers spend plenty of time creating new applications and debugging existing codebases, but most developers also spend at least some of their time reading and writing about technical concepts, recent advancements, and new technologies. A simple Google search for any concept covered in this course returns thousands of think pieces and tutorials from developers of all skill levels!
+Tech writing can be just as important as creating technology itself. Developers often dedicate significant time and effort to developing new applications and troubleshooting existing codebases, but they also spend a considerable amount of time reading and writing about technical concepts, recent developments, and new technologies. A quick search for any given technical topic will yield thousands of articles and tutorials written by developers of all skill levels.
 
 ## User Story
 
@@ -44,42 +44,30 @@ WHEN I am idle on the site for more than a set time<br>
 THEN I am able to view comments but I am prompted to log in again before I can add, update, or delete comments
 <br>
 
-## Table Of Contents
-
-- [Installation](#install)
+## Table of Contents
+- [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
 - [Test](#test)
 - [Questions](#questions)
 
-## Install
-
-This application requires nodejs to run this application. If you would like to pull this application down please
-run npm i and download all of the dependencies to properly run.
+## Installation
+This application requires nodejs to run this application. If you would like to pull this application down, please run `npm i` and download all of the dependencies to properly run the application.
 
 ## Usage
-
 This is a great introduction to understanding the MVC model.
 
 ## License
-
 MIT
 
 ## Contributing
-
 JonSpircoff7
 
 ## Test
-
-node server.js
+To test the application, run `node server.js`.
 
 ## Questions
+For directions to my github, please follow this link: https://github.com/JonSpircoff7
 
-For directions to my github, please follow this link.
-
-- https://github.com/JonSpircoff7
-
-Please feel free to reach me at
-
-- Spircoff_j@yahoo.com
+Please feel free to reach me at Spircoff_j@yahoo.com if you have any questions.

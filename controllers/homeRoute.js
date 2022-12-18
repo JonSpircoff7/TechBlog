@@ -1,6 +1,6 @@
 const router = require('express').Router();
-const { Post, Comment, User } = require('../models');
-const withAuth = require('../utils/auth');
+const { Post, Comment, User } = require('../../models');
+const withAuth = require('../../utils/auth');
 
 // GET route to display all posts on homepage
 router.get('/', async (req, res) => {
